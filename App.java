@@ -1,4 +1,4 @@
-public class Main {
+public class App {
 	public static void main(String[] args){
 		System.out.println("GOOD MORNING");
 		System.out.println("GIT REVERT COMMAND");
